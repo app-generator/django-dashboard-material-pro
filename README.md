@@ -297,9 +297,9 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 <br />
 
-### [Material Dashboard PRO](https://demos.creative-tim.com/marketplace/material-dashboard-pro/docs/1.0/getting-started/introduction)
+### [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard-pro)
 
-Material Dashboard PRO is a beautiful Bootstrap 4 Admin Dashboard that comes in 2 versions: Dark and Light Mode. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. It is based on the popular Bootstrap 4 framework and comes packed with multiple third-party plugins. All components are built to fit perfectly with each other while aligning to the material concepts.
 
 <br />
 
