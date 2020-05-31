@@ -1,8 +1,8 @@
 # [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
 
-> Commercial product - **Django Dashboard** coded on top of **Argon Dashboard PRO** crafted by **Creative-Tim** - Features:
+> Commercial product - **Django Dashboard** coded on top of **Material Dashboard PRO** crafted by **Creative-Tim** - Features:
 
-- Sample UI Kit: **Argon Dashboard PRO** provided by **Creative-Tim**
+- Sample UI Kit: **Material Dashboard PRO** provided by **Creative-Tim**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
