@@ -1,8 +1,9 @@
-# [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
+# [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
 
-> Commercial product - **Django Dashboard** coded on top of **Material Dashboard PRO** crafted by **Creative-Tim** - Features:
+> Commercial product - **Django Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
-- Sample UI Kit: **Material Dashboard PRO** provided by **Creative-Tim**
+- UI Kit: **Material Dashboard** (PRO Version) provided by **Creative-Tim**
+- Jinja2 Theme: [Material Dashboard PRO](https://github.com/app-generator/theme-jinja2-material-dashboard-pro)
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
@@ -12,15 +13,14 @@
 
 > Links
 
-- [Django Material PRO](https://django-dashboard-material-pro.appseed.us/) - LIVE Demo
-- [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - Official product page
-- [Django Material PRO](https://docs.appseed.us/admin-dashboards/django-dashboard-material-pro/) - Starter docs
+- [Django Dashboard Material PRO](https://django-dashboard-material-pro.appseed.us/) - LIVE Demo
+- [Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - Official product page
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Django Material PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-material-pro/master/media/django-dashboard-material-pro-screen.png)
+![Django Dashboard Material PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-material-pro/master/media/django-dashboard-material-pro-screen.png)
 
 <br />
 
@@ -196,11 +196,11 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ## Credits & Links
 
-- [Django](https://www.djangoproject.com/) - The offcial website
-- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index provided by **AppSeed**
-- [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index published on Github
+- [Django](https://www.djangoproject.com/) - The official website
+- [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
+- [Boilerplate Code](https://github.com/app-generator/boilerplate-code) - Index published on Github
 
 <br />
 
 ---
-[Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
