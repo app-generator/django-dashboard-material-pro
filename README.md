@@ -18,8 +18,9 @@ Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new
 
 > Links
 
-- [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - product page
-- [Django Material PRO - Demo](https://django-material-dashboard-pro.appseed-srv1.com) - LIVE app
+- [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) - Product page
+- [Django Material PRO](https://django-material-dashboard-pro.appseed-srv1.com) - LIVE deployment
+- [Django Material PRO](https://docs.appseed.us/products/django-dashboards/material-dashboard-pro) - Product documentation
 
 <br />
 
